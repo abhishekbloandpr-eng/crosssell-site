@@ -1,2 +1,11 @@
-# crosssell-site
-Amazon-style cross-selling affiliate website built with React. Includes product recommendations, admin panel, analytics tracking, and ready deployment on Vercel.
+
+# Prime Picks India
+
+Beginner-ready Next.js project for affiliate cross-selling.
+
+## Run locally
+npm install
+npm run dev
+
+## Deploy
+Push to GitHub → Import to Vercel → Deploy
